@@ -21,7 +21,7 @@ p{
 section{ 
     display: flex;
     justify-content: center;
-    background-color:black
+    background-color:black;
     color:red(183,106,12);
 }
 .texto {
@@ -30,4 +30,5 @@ section{
 img{ 
     width: 300px;
     height: 200px;
+
 }
